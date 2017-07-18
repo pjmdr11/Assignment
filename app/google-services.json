@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17688043518",
+    "firebase_url": "https://leapfrogassignment-fbcc7.firebaseio.com",
+    "project_id": "leapfrogassignment-fbcc7",
+    "storage_bucket": "leapfrogassignment-fbcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17688043518:android:9eae1cb80df483e9",
+        "android_client_info": {
+          "package_name": "prajwal.lftassignment.com.leapfrogassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17688043518-it9skcfucp986kq39qqtqp79h2pi88h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prajwal.lftassignment.com.leapfrogassignment",
+            "certificate_hash": "079418bbfb25458b24da70165a82d17b57cde59a"
+          }
+        },
+        {
+          "client_id": "17688043518-9ma835l33p1vlsk7kg33251v73h8po4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHKF6wN9pi4whFt4YtTyLG3pkfEf6268"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17688043518-9ma835l33p1vlsk7kg33251v73h8po4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
