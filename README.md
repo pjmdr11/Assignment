@@ -19,16 +19,14 @@ repositories {
 Usage
 1.	Layout
 You can add WLinkButton to your xml layout
-
-<pre><code>
-
+<code>
 <payment.worldlink.com.wlinkpayment.widgets.WLinkButton
     android:id="@+id/wlink_button"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="5dp"
     app:wlink_button_style="Rounded_Corners" />
-</code></pre>
+</code>
 
 
 And, Locate your xml WLink Button in your Java
